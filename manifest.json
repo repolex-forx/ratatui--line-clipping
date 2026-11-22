@@ -28,6 +28,27 @@
       ],
       "ast": [
         "aggregate/ast/d734cc5c1a2e6f9d60eeda996650cefa193be719/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d734cc5c1a2e6f9d60eeda996650cefa193be719.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "bitflags",
+          "ecosystem": "CARGO",
+          "version": "2.11",
+          "githubOrg": "bitflags",
+          "githubRepo": "bitflags",
+          "githubUrl": "https://github.com/bitflags/bitflags",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rstest",
+          "ecosystem": "CARGO",
+          "version": "0.26",
+          "githubOrg": "la10736",
+          "githubRepo": "rstest",
+          "githubUrl": "https://github.com/la10736/rstest",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
