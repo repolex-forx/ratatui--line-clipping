@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "ratatui",
+  "repo": "line-clipping",
+  "versions": [
+    {
+      "commit": "d734cc5c1a2e6f9d60eeda996650cefa193be719",
+      "parsed_at": "2026-11-22T10:43:12.824364+00:00",
+      "tag": "v0.3.7",
+      "filetree": "filetree/d734cc5c1a2e6f9d60eeda996650cefa193be719.nq.gz",
+      "blobs": [
+        "blob/eca00ad91b5cea06914e8db3ea00664b007cbfa8.nq.gz",
+        "blob/849a0ca79279ab4159166ae63ae4469299529aa4.nq.gz",
+        "blob/e4c0503bfdd62235428db26944510547ddb5f657.nq.gz",
+        "blob/3b5a5d0d2365019bc70c078cd579fa2d5c9ef892.nq.gz",
+        "blob/b4d4df5244bb95f163c178074fbda16c03ce3680.nq.gz",
+        "blob/94a0c784e9155a9197223189611e7aa594678f21.nq.gz",
+        "blob/33844523a014926cdcce056e7a50cbb5120a0919.nq.gz",
+        "blob/0dfc8dca2211858d1d5d089f4990403b07f6a84f.nq.gz",
+        "blob/b508b22521c56bfb6ab4658a643810b1143c0f2a.nq.gz",
+        "blob/96ae3828c1352b2c650259068782f1e82b7c19df.nq.gz",
+        "blob/a4e8b4b6bbc3107e40ccaf5540868fd573b9e9e4.nq.gz",
+        "blob/9dd7a63238625664f50db1a618ede17dbbc377b8.nq.gz",
+        "blob/94206f8fe954509d4fe67c38c70fdf784916cf76.nq.gz",
+        "blob/220d5846c99103a4e5ac6ba034367828893184ad.nq.gz",
+        "blob/a16cd4a545b8ae5e1d7d40a859a434e87d020d54.nq.gz",
+        "blob/ea8c4bf7f35f6f77f75d92ad8ce8349f6e81ddba.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
