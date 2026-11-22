@@ -1,0 +1,7 @@
+[2026-11-22T10:45:32Z] === AST ITERATION 1 START | repo=ratatui/line-clipping sha=d734cc5c ===
+[2026-11-22T10:45:32Z] [iter=1] PHASE START: ast repo=ratatui/line-clipping sha=d734cc5c
+[2026-11-22T10:45:32Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T10:45:33Z] [iter=1] AST chunks built count=1 triples=20224
+[2026-11-22T10:45:33Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d734cc5c1a2e6f9d60eeda996650cefa193be719/.complete
+[2026-11-22T10:45:33Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-11-22T10:45:33Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
