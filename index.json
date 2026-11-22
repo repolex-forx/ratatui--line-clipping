@@ -1,0 +1,11 @@
+{
+  "org": "ratatui",
+  "repo": "line-clipping",
+  "versions": [
+    {
+      "commit": "d734cc5c1a2e6f9d60eeda996650cefa193be719",
+      "tag": "v0.3.7",
+      "parsed_at": "2026-11-22T10:49:21.927533+00:00"
+    }
+  ]
+}
